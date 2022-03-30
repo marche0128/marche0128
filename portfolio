@@ -1,0 +1,97 @@
+<html>
+
+<head>
+  <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+  <meta charset="utf-8">
+  <title>My Landing page </title>
+</head>
+<body>
+  <main id="main-doc"> 
+    <div id="welcome-section">
+  <h1>Text</h1>
+
+      </div>
+    
+      <div id="projects">
+    <div class="project-tile">project</div>
+<a href="url">link text</a>
+ <a id='profile-link' href="https://github.com/freecodecamp" target="_blank" class="contact-details">GitHub</a>
+      </div>
+    
+    
+    <section  id="Javascript" class="main-section">
+      <header>Javascript</header>
+
+    </section>
+  
+      <section id="Java" class="main-section">
+      <header >Java</header>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <code> </code>
+                <code> </code>
+        <code> </code>
+        <code> </code>
+        <code> </code>
+        <li> </li>
+        <li> </li>
+        <li> </li>
+        <li> </li>
+        <li> </li>
+
+    </section>
+    <section id="C" class="main-section">
+      <header >C</header>
+
+    </section>
+    <section  id="Go" class="main-section">
+      <header>Go</header>
+
+    </section>
+    <section  id="Html" class="main-section"> 
+      <header>Html</header>
+
+    </section>
+
+  
+  
+  
+  </main> 
+
+    <img id="header-img" src="CompanyImage.gif" alt="Smiley face" height="42" width="42">
+<nav id="navbar">
+        <header>Javascript</header>
+
+  <a class="nav-link" href="#Javascript">Javascript</a> 
+  <a class="nav-link" href="#Java">Java</a> |
+  <a class="nav-link" href="#C">C</a> |
+    <a class="nav-link" href="#Go">Go</a> |
+  <a class="nav-link" href="#Html">Html</a> |
+
+</nav>
+<video id="video" width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>    
+
+  <form id="form" action="https://www.freecodecamp.com/email-submit">
+      <label id="email-label" for="email">Enter your email:</label> 
+<input id="email" name="email" type="email" id="email" required placeholder="Enter your Email">
+<input type="submit" id="submit" value="Submit The Form">
+  </form>
+  <p id="html">html section </p>
+    <p id="css">css section </p>
+  <p id="js">js section </p>
+
+</body>
+</html>
+
